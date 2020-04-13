@@ -4,7 +4,7 @@ $('#fin').on('click', function(e) {
     return $(radio).val();
   }).toArray();
 
-  if (choices.length == 7) {
+  if (choices.length == 5) {
     $('button[type=calculate]').css("display", "none");
     var count = 0;
     for (i = 0; i < choices.length; i++) {
