@@ -10,17 +10,11 @@ $('#fin').on('click', function(e) {
     for (i = 0; i < choices.length; i++) {
       count += parseInt(choices[i]);
     }
-    if (count > 36) {
+    if (count > 13) {
       $('#super').css("display", "block");
     }
-    else if (count > 28) {
+    else if (count > 7) {
       $('#hulk').css("display", "block");
-    }
-    else if (count > 20) {
-      $('#silent').css("display", "block");
-    }
-    else if (count > 11) {
-      $('#prepubescent').css("display", "block");
     }
     else {
       $('#clean').css("display", "block");
