@@ -65,8 +65,8 @@ body {
 
 #food-question {
   background: linear-gradient(
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)),
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)),
     url("https://raw.githubusercontent.com/apeculiarreality/test/master/img/lighter.png"
     );
   background-repeat: no-repeat;
@@ -76,8 +76,8 @@ body {
 
 #char-question {
   background: linear-gradient(
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)),
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)),
     url("https://raw.githubusercontent.com/apeculiarreality/test/master/img/treehouse.png"
     );
   background-repeat: no-repeat;
@@ -87,8 +87,8 @@ body {
 
 #sports-question {
   background: linear-gradient(
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)),
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)),
     url("https://raw.githubusercontent.com/apeculiarreality/test/master/img/skateboard.png"
     );
   background-repeat: no-repeat;
@@ -98,8 +98,8 @@ body {
 
 #place-question {
   background: linear-gradient(
-    rgba(0, 0, 0, 0.4),
-    rgba(0, 0, 0, 0.4)),
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)),
     url("https://raw.githubusercontent.com/apeculiarreality/test/master/img/lawnmower.png"
     );
   background-repeat: no-repeat;
@@ -109,8 +109,8 @@ body {
 
 #hobby-question {
   background: linear-gradient(
-    rgba(0, 0, 0, 0.6),
-    rgba(0, 0, 0, 0.6)),
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)),
     url("http://cdn.makeuseof.com/wp-content/uploads/2015/10/hobbies-happy-670x335.jpg?edc8eb"
     );
   background-repeat: no-repeat;
@@ -120,8 +120,8 @@ body {
 
 #motto-question {
   background: linear-gradient(
-    rgba(0, 0, 0, 0.6),
-    rgba(0, 0, 0, 0.6)),
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)),
     url("https://cdn.daysoftheyear.com/wp-content/images/blah-blah-blah-day-764x382.jpg"
     );
   background-repeat: no-repeat;
