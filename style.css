@@ -14,7 +14,7 @@ body {
   background: linear-gradient(
     rgba(0, 0, 0, 0.5),
     rgba(0, 0, 0, 0.5)),
-    url("http://www.psychologicalscience.org/redesign/wp-content/uploads/2012/04/Swearing.JPG"
+    url("https://raw.githubusercontent.com/apeculiarreality/test/master/img/title_crop.png"
     );
   background-repeat: no-repeat;
   background-size: 100%;
@@ -241,7 +241,7 @@ button[type=calculate] {
 
 button[type=calculate]:hover {
 box-shadow: .0em .0em .7em .1em rgba(50, 50, 50, 1);
-background-color: rgba(130, 60, 170, 1);
+background-color: rgba(74, 74, 74, 1);
 }
 
 .results {
