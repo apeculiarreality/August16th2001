@@ -229,7 +229,7 @@ img {
 button[type=calculate] {
   align-self: center;
   margin: 2em;
-  background-color: rgba(120, 50, 160, 1);
+  background-color: rgba(54, 54, 54, 1);
   box-shadow: .0em .0em .2em .1em rgba(50, 50, 50, 1);
   border: none;
   width: 10em;
