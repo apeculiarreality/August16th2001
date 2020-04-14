@@ -12,8 +12,8 @@ body {
 
 #quiz-head {
   background: linear-gradient(
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)),
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)),
     url("https://raw.githubusercontent.com/apeculiarreality/test/master/img/header2.png"
     );
   background-repeat: no-repeat;
@@ -55,8 +55,8 @@ body {
 
 #room-question {
   background: linear-gradient(
-    rgba(0, 0, 0, 0.5),
-    rgba(0, 0, 0, 0.5)),
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0)),
     url("https://raw.githubusercontent.com/apeculiarreality/test/master/img/title.png"
     );
   background-repeat: no-repeat;
