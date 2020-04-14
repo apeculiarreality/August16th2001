@@ -11,13 +11,13 @@ $('#fin').on('click', function(e) {
       count += parseInt(choices[i]);
     }
     if (count > 13) {
-      $('#super').css("display", "block");
+      $('#mara').css("display", "block");
     }
     else if (count > 7) {
-      $('#hulk').css("display", "block");
+      $('#charlie').css("display", "block");
     }
     else {
-      $('#clean').css("display", "block");
+      $('#thegang').css("display", "block");
     }
   }
 
