@@ -10,7 +10,7 @@ $('#fin').on('click', function(e) {
     for (i = 0; i < choices.length; i++) {
       count += parseInt(choices[i]);
     }
-    if (count > 13) {
+    if (count > 12) {
       $('#mara').css("display", "block");
     }
     else if (count > 7) {
